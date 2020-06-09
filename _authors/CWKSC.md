@@ -9,17 +9,3 @@ github_username: CWKSC
 twitter_username: CwkscP
 instagram_username: CWKSC
 ---
-
-bla bla bla
-
-bla
-
-bla
-
-bla
-
-```c++
-meow?
-```
-
-blablablablablablablabla
