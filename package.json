@@ -37,5 +37,7 @@
     "lodash": "^4.17.13",
     "lodash.merge": "^4.6.2",
     "vinyl-source-stream": "^2.0.0"
+    "minimist": ">=1.2.3"
+    "kind-of": ">=6.0.3"
   }
 }
