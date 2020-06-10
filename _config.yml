@@ -10,7 +10,7 @@ tags:
   - netlify
 email: sam979451653@gmail.com
 disqus_username: 
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
