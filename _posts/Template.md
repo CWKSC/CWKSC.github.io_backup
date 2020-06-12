@@ -7,7 +7,9 @@ description: Description here
 image:
 optimized_image:
 category: category here
-tags:
+tags: tag here
 author: CWKSC
 paginate: false
 ---
+
+Content here
