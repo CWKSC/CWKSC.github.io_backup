@@ -9,7 +9,7 @@ tags:
   - theme
   - netlify
 email: sam979451653@gmail.com
-disqus_username: 
+disqus_username: cwksc
 show_hero: false
 menu:
   - title: Home
@@ -25,8 +25,11 @@ menu:
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: CWKSC
+#facebook_username: 
 twitter_username: CwkscP
 instagram_username: CWKSC
+#linkedin_username: 
+#medium_username: 
 
 
 # Posts Settings
