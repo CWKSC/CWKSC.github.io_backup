@@ -6,13 +6,27 @@ subtitle: 這是博客的第一篇文章 This is  the first post of the blog
 description: 這是博客的第一篇文章 This is the first post of the blog
 image: https://raw.githubusercontent.com/CWKSC/MyResources/master/Image/krisjanis-mezulis-kDTfZxwqnyU-unsplash.jpg
 optimized_image:
-category: Blog
+category: blog
 tags: blog
 author: CWKSC
 paginate: false
 ---
 
-這是博客的第一篇文章
+這個博客主要是寫技術文章的，有時候是日常生活、吐槽
+
+原本技術文章都是放到知乎上
+
+不過知乎的環境變得愈來愈差，加上實名制實行了，香港地區除了點贊之外其他功能都用不到
+
+本身也一直打算開個 blog 
+
+祝知乎早日完蛋
+
+___
+
+文章字體會統一用繁體，來自内地的朋友抱歉啦
+
+___
 
 Blog 用了GitHub Pages + Jekyll，Theme 是 [Jekflix](https://github.com/thiagorossener/jekflix-template) 
 
