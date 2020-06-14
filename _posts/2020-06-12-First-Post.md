@@ -22,7 +22,7 @@ paginate: false
 
 ___
 
-文章字體會統一用繁體，來自内地的朋友抱歉啦
+文章字體會統一用繁體，來自内地的朋友抱歉啦 
 
 ___
 
@@ -32,5 +32,5 @@ ___
 
 Blog 用了GitHub Pages + Jekyll，Theme 是 [Jekflix](https://github.com/thiagorossener/jekflix-template) 
 
-
+這個主題的排版可以一次過展示更多的文章，挺好的
 
