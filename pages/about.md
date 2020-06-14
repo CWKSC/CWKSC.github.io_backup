@@ -13,7 +13,7 @@ permalink: /about/
 
 一個香港的學生，如無意外準備大三
 
-喜歡編程，會一點點鋼琴，會一點點畫畫
+喜歡編程，會一點點鋼琴，會一點點畫畫，喜歡使用顏文字
 
 > 不會鋼琴的繪師不是一個好的程式員哦
 
@@ -29,7 +29,9 @@ ___
 
 （ ~~隨便什麼亂七八糟的東西都填上去~~ ）
 
-個人很喜歡做輪子，基本上每一個語言都會弄一個自己的庫， 例如：[MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp) 以及 Github 中 MyLib 所有系列
+個人很喜歡做輪子，基本上每一個語言都會弄一個自己的庫
+
+例如：[MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp) 以及 Github 中 MyLib 所有系列
 
 ___
 
