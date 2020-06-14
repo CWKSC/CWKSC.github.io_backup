@@ -1,5 +1,5 @@
 ---
-date: 2020-06-12 14:17:30
+date: 2020-06-12 00:00:00
 layout: post
 title: Title here
 subtitle: Subtitle here
