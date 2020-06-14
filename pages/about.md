@@ -2,14 +2,14 @@
 layout: page
 menu: false
 date: '2020-06-15 00:00:00'
-title: About
-description: About me
+title: About me 關於我
+description: About me 關於我
 permalink: /about/
 ---
 
 <img class="img-rounded" src="/assets/image/author_photo/CWKSC_photo.jpg" alt="CWKSC" width="200">
 
-# About
+# About me 關於我
 
 一個香港的學生，如無意外準備大三
 
