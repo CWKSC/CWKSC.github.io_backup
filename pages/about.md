@@ -42,6 +42,7 @@ Twitter: [https://twitter.com/CwkscP](https://twitter.com/CwkscP)  （ CWKSC 這
 Github: [https://github.com/CWKSC](https://github.com/CWKSC)
 
 知乎：[https://www.zhihu.com/people/CWKSC](https://www.zhihu.com/people/CWKSC) 
+
 （除了點讚，不會再更新專欄 / 其他東西，祝知乎早日完蛋）
 
 ___
@@ -52,8 +53,9 @@ Twitter 是日常生活的流水帳
 
 ___
 
-歡迎交換友鏈
+歡迎交換[友鏈](https://cwksc.github.io/link_exchange/) 
 
 ___
 
 一些其他的東西看看我 Blog 的文章吧 OW<
+
