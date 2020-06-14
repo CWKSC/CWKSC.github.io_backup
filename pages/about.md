@@ -25,7 +25,9 @@ ___
 
 用過：Node.js, jQuery, WebSocket, Express.js, Socket.IO, MonogoDB, Mongoose, validator.js, ZeroMQ
 
-使用過的工具：Unity, Android Studio, 3dsMax, Blender, Access, Adobe Premiere Pro, NativeScript, Typora, Visual Studio, Intellij IDEA, Eclipse, Scratch, Google SketchUp （ ~~隨便什麼亂七八糟的東西都填上去~~ ）
+使用過的工具：Unity, Android Studio, 3dsMax, Blender, Access, Adobe Premiere Pro, NativeScript, Typora, Visual Studio, Intellij IDEA, Eclipse, Scratch, Google SketchUp 
+
+（ ~~隨便什麼亂七八糟的東西都填上去~~ ）
 
 個人很喜歡做輪子，基本上每一個語言都會弄一個自己的庫， 例如：[MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp) 以及 Github 中 MyLib 所有系列
 
@@ -33,19 +35,23 @@ ___
 
 各大平台的名字都是 CWKSC
 
-Instagram: https://www.instagram.com/cwksc/
+Instagram: [https://www.instagram.com/cwksc/](https://www.instagram.com/cwksc/)
 
-Twitter: https://twitter.com/CwkscP  （ CWKSC 這個 id 給別人用了 。･ﾟ･(つ д`ﾟ)･ﾟ･  ）
+Twitter: [https://twitter.com/CwkscP](https://twitter.com/CwkscP)  （ CWKSC 這個 id 給別人用了 。･ﾟ･(つ д`ﾟ)･ﾟ･  ）
 
-Github: https://github.com/CWKSC 
+Github: [https://github.com/CWKSC](https://github.com/CWKSC)
 
-知乎：https://www.zhihu.com/people/CWKSC （除了點讚，不會更新其他東西，祝知乎早日完蛋）
+知乎：[https://www.zhihu.com/people/CWKSC](https://www.zhihu.com/people/CWKSC) （除了點讚，不會更新其他東西，祝知乎早日完蛋）
 
 ___
 
 Instagram 一般是放作品的
 
 Twitter 是日常生活的流水帳
+
+___
+
+歡迎交換友鏈
 
 ___
 
