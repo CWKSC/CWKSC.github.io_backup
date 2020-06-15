@@ -4,7 +4,7 @@ menu: false
 date: '2020-06-15 00:00:00'
 title: About me 關於我
 description: About me 關於我
-permalink: /about/
+permalink: /about_me/
 ---
 
 <img class="img-rounded" src="/assets/image/author_photo/CWKSC_photo.jpg" alt="CWKSC" width="200">

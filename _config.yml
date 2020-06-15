@@ -15,7 +15,9 @@ menu:
   - title: Home 主頁
     url: /
   - title: About Me 關於我
-    url: /about
+    url: /about_me
+  - title: About This Blog 關於這個博客
+    url: /about_this_blog
 #  - title: Contact
 #    url: /contact
   - title: Link Exchange 友鏈
