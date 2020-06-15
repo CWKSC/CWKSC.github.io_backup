@@ -9,7 +9,9 @@ permalink: /link_exchange/
 
 # Link Exchange 友鏈
 
-[Raptazure](https://raptazure.github.io)  
+#### <img class="img-rounded" style="display: inline; float: left;" src="https://cdn.jsdelivr.net/gh/raptazure/cdn/blog/avatar.jpg" alt="CWKSC" width="200"> 
 
-<img class="img-rounded" src="https://cdn.jsdelivr.net/gh/raptazure/cdn/blog/avatar.jpg" alt="CWKSC" width="200">
+
+
+#### [Raptazure](https://raptazure.github.io)  
 
