@@ -9,11 +9,7 @@ permalink: /link_exchange/
 
 # Link Exchange 友鏈
 
-| <img class="img-rounded" src="https://cdn.jsdelivr.net/gh/raptazure/cdn/blog/avatar.jpg" alt="CWKSC" width="200"> | [Raptazure](https://raptazure.github.io)  描述：心随自然 |
-| ------------------------------------------------------------ | -------------------------------------------------------- |
-|                                                              |                                                          |
+[Raptazure](https://raptazure.github.io)  
 
-
-
-
+<img class="img-rounded" src="https://cdn.jsdelivr.net/gh/raptazure/cdn/blog/avatar.jpg" alt="CWKSC" width="200">
 
