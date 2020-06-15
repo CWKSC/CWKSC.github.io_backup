@@ -16,7 +16,7 @@ menu:
     url: /
   - title: About Me 關於我
     url: /about_me
-  - title: About This Blog 關於這個博客
+  - title: About Blog 關於這個博客
     url: /about_this_blog
 #  - title: Contact
 #    url: /contact
