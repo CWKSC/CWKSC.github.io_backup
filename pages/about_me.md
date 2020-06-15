@@ -11,7 +11,7 @@ permalink: /about_me/
 
 # About me 關於我
 
-一個香港的學生，目前狀態是大專畢業，如無意外準備大三
+一個香港的學生，目前狀態是大專畢業(游戲開發)，如無意外準備大三
 
 喜歡編程，會一點點鋼琴，會一點點畫畫，喜歡使用顏文字
 
@@ -43,9 +43,9 @@ Twitter: [https://twitter.com/CwkscP](https://twitter.com/CwkscP)  （ CWKSC 這
 
 Github: [https://github.com/CWKSC](https://github.com/CWKSC)
 
-知乎：[https://www.zhihu.com/people/CWKSC](https://www.zhihu.com/people/CWKSC) 
+知乎：[https://www.zhihu.com/people/CWKSC](https://www.zhihu.com/people/CWKSC) <br>（除了點讚，不會再更新專欄 / 其他東西，祝知乎早日完蛋）
 
-（除了點讚，不會再更新專欄 / 其他東西，祝知乎早日完蛋）
+iT 邦幫忙：[https://ithelp.ithome.com.tw/users/20111788](https://ithelp.ithome.com.tw/users/20111788)
 
 ___
 
