@@ -18,3 +18,5 @@ permalink: /about_this_blog/
 Blog 用了GitHub Pages + Jekyll，Theme 是 [Jekflix](https://github.com/thiagorossener/jekflix-template) 
 
 這個主題的排版可以一次過展示更多的文章，挺好的
+
+歡迎交換[友鏈](https://cwksc.github.io/link_exchange/)
