@@ -31,7 +31,7 @@ ___
 
 個人很喜歡做輪子，基本上每一個語言都會弄一個自己的庫
 
-例如：[MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp) 以及 Github 中 MyLib 所有系列
+例如： [MyLib_Csharp](https://github.com/CWKSC/MyLib_Csharp) 以及 Github 中 MyLib 所有系列
 
 ___
 

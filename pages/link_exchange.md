@@ -22,3 +22,8 @@ ___
 友情鏈接，歡迎交換友鏈哦
 
 名稱：CWKSC<br>頭像： [這裏](https://cwksc.github.io/assets/image/author_photo/CWKSC_photo.jpg)<br>博客地址： [https://cwksc.github.io](https://t.co/gB4JQRcViD?amp=1) <br>描述：主要是寫技術文章的，有時候是日常、吐槽
+
+>名稱：CWKSC
+>頭像： [https://cwksc.github.io/assets/image/author_photo/CWKSC_photo.jpg](https://cwksc.github.io/assets/image/author_photo/CWKSC_photo.jpg) 
+>博客地址： [https://cwksc.github.io](https://t.co/gB4JQRcViD?amp=1) 
+>描述：主要是寫技術文章的，有時候是日常、吐槽

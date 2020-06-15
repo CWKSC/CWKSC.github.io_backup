@@ -13,7 +13,7 @@ permalink: /about_this_blog/
 
 文章字體會統一用繁體，來自内地的朋友抱歉啦 
 
-封面的圖片主要從這裏獲取：[https://unsplash.com/](https://unsplash.com/)
+封面的圖片主要從這裏獲取： [https://unsplash.com/](https://unsplash.com/)
 
 Blog 用了GitHub Pages + Jekyll，Theme 是 [Jekflix](https://github.com/thiagorossener/jekflix-template) 
 
