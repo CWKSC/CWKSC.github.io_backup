@@ -43,9 +43,9 @@ Twitter: [https://twitter.com/CwkscP](https://twitter.com/CwkscP)  （ CWKSC 這
 
 Github: [https://github.com/CWKSC](https://github.com/CWKSC)
 
-知乎：[https://www.zhihu.com/people/CWKSC](https://www.zhihu.com/people/CWKSC) <br>（除了點讚，不會再更新專欄 / 其他東西，祝知乎早日完蛋）
+知乎： [https://www.zhihu.com/people/CWKSC](https://www.zhihu.com/people/CWKSC) <br>（除了點讚，不會再更新專欄 / 其他東西，祝知乎早日完蛋）
 
-iT 邦幫忙：[https://ithelp.ithome.com.tw/users/20111788](https://ithelp.ithome.com.tw/users/20111788)
+iT 邦幫忙： [https://ithelp.ithome.com.tw/users/20111788](https://ithelp.ithome.com.tw/users/20111788)
 
 ___
 
