@@ -1,13 +1,13 @@
 ---
 date: 2020-06-15 00:00:00
 layout: post
-title: Title here
-subtitle: Subtitle here
-description: Description here
+title: 
+subtitle: 
+description: 
 image:
 optimized_image:
-category: category here
-tags: tag here
+category: 
+tags: 
 author: CWKSC
 paginate: false
 ---
