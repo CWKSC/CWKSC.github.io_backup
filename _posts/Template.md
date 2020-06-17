@@ -4,8 +4,8 @@ layout: post
 title: 
 subtitle: 
 description: 
-image:
-optimized_image:
+image: 
+optimized_image: 
 category: 
 tags: 
 author: CWKSC
