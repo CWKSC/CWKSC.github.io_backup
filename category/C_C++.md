@@ -1,6 +1,6 @@
 ---
 layout: category
-title: "C_C++"
-slug: "C_C++"
+title: C/C++
+slug: C/C++
 description: A category for C/C++ related posts.
 ---
