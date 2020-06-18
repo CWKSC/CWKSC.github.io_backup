@@ -2,7 +2,7 @@
 // https://github.com/leny/kouto-swiss/edit/master/lib/kouto-swiss/reset/normalize.styl
 
 html {
-  font-family: 'Microsoft JhengHei', '微軟正黑體', sans-serif;
+  font-family: 'Microsoft JhengHei', '微軟正黑體', sans-serif; !important
   line-height: 1.15;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
