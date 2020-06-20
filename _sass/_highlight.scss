@@ -8,7 +8,8 @@ pre {
 
   @include media(">=sm") {
     font-size: rem(16px);
-    padding: rem(40px) 0;
+	padding: rem(20px) 0;
+    //padding: rem(40px) 0;
     margin: rem(50px) 0;
   }
 
