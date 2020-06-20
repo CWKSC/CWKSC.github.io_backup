@@ -29,7 +29,8 @@ pre {
 }
 
 .highlight {
-  margin: rem(20px) 0;
+  margin: 1.8125rem 0 1.8125rem 50px;
+  //margin: rem(20px) 0;
 
   @include media(">=sm") {
     word-wrap: break-word;
