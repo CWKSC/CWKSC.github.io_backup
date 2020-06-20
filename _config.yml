@@ -18,12 +18,12 @@ menu:
     url: /about_me
   - title: About Blog 關於這個博客
     url: /about_this_blog
-  - title: Tag 標籤
-    url: /tags
 #  - title: Contact
 #    url: /contact
   - title: Link Exchange 友鏈
     url: /link_exchange
+  - title: Tags 標籤
+    url: /tags
   - title: Feed 餵食 (๑´ㅂ`๑)
     url: /feed.xml
 
