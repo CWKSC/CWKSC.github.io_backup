@@ -4,7 +4,6 @@ pre {
   padding: rem(20px) 0;
   color: $accentDark;
   margin: rem(30px) 0;
-  margin-left: 50px;
   font-size: rem(14px);
 
   @include media(">=sm") {
@@ -16,6 +15,7 @@ pre {
   code {
     @include center(rem(800px));
     padding: 0 rem(20px);
+	margin-left: 50px;
 
     @include media("<sm") {
       overflow-x: scroll;
