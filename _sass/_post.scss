@@ -659,7 +659,8 @@
 
   .tag-title {
     @include mainFont(300);
-    @include center(rem(800px));
+	@include center(rem(1096px));
+    //@include center(rem(800px));
     font-size: rem(30px);
     margin-top: rem(20px);
     padding: 0 rem(10px);
