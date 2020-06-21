@@ -42,6 +42,10 @@
     margin: rem(0px) auto;
     display: block;
     padding: 10px 0;
+	
+	@include media(">=sm") {
+	  max-width: 100%;
+	}
   }
 
   figure {
