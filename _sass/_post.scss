@@ -43,7 +43,7 @@
     display: block;
     padding: 10px 0;
 	
-	@include media(">=sm") {
+	@include media("<=sm") {
 	  max-width: 100%;
 	}
   }
