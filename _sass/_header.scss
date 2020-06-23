@@ -30,6 +30,10 @@ body {
       font-size: rem(32px);
       position: relative;
       outline: 0;
+	  
+	  @include media("<sm") {
+        font-size: rem(30px);
+      }
     }
 
     svg {
