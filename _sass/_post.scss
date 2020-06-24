@@ -238,7 +238,7 @@
   }
 
   blockquote {
-    @include center(rem(800px));
+    @include center(rem(1000px));
     //@include center(rem(730px));
     border-left: rem(5px) solid $texts;
     padding: 0 rem(10px);
