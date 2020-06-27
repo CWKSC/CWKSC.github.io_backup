@@ -17,6 +17,8 @@ pre {
     @include center(rem(800px));
     padding: 0 rem(20px);
 	margin-left: 16px; // added
+	
+	font-weight: normal; // new
 
     @include media("<sm") {
       overflow-x: scroll;

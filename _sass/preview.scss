@@ -142,6 +142,9 @@ body {
       background: $lightGray;
       padding: rem(3px) rem(5px);
       border-radius: 3px;
+	  
+	  font-weight: normal; // new
+	  
       @include media(">=sm") {
         font-size: rem(17px);
       }

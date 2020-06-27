@@ -80,9 +80,13 @@
     margin: rem(20px) auto 0;
 
     @include media(">=sm") {
-      font-size: rem(20px);
+	  font-size: rem(22px); // new
+      //font-size: rem(20px);
+	  
       line-height: rem(40px);
       margin: rem(29px) auto 0;
+	  
+	  font-weight: bold; // new 
     }
   }
 
@@ -150,6 +154,8 @@
       word-wrap: break-word;
       padding: rem(3px) rem(5px);
       border-radius: 3px;
+	  
+	  font-weight: normal; // new
 
       @include media(">=sm") {
         font-size: rem(17px);
