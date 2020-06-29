@@ -4,7 +4,7 @@ menu: false
 date: '2020-06-29 00:00:00'
 title: Category 類別
 description: Category 類別
-permalink: /category/
+permalink: /menu_category/
 ---
 
 # Category 類別
