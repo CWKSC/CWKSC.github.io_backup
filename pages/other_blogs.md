@@ -11,7 +11,7 @@ permalink: /other_blogs/
 
 目前你正在瀏覽的這個是主博客，其他站點如下：
 
-### [CWKSC's 翻譯文章](https://cwksc.github.io/TranslateArticles/)
+### [`CWKSC's 翻譯文章`](https://cwksc.github.io/TranslateArticles/)
 
-—— 一些網站文檔文章的翻譯
+一些網站文檔文章的翻譯
 

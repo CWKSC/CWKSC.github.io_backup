@@ -24,6 +24,8 @@ menu:
 #    url: /contact
   - title: Link Exchange 友鏈
     url: /link_exchange
+  - title: Category 類別
+    url: /category
   - title: Tags 標籤
     url: /tags
   - title: Feed 餵食 (๑´ㅂ`๑)
