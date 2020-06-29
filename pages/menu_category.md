@@ -9,8 +9,11 @@ permalink: /menu_category/
 
 # Category 類別
 
-一個手動的 Category 目錄，點擊文章上的文字也可以哦
+一個手動的 Category 目錄，點擊主頁文章圖片上的文字也可以哦
 
-### [C/C++ Macro 宏系列](https://cwksc.github.io/category/C/C++ Macro 宏系列/)
+| [C/C++ Macro 宏系列](https://cwksc.github.io/category/C/C++ Macro 宏系列/) | [Blog 博客](https://cwksc.github.io/category/Blog 博客/) |
+| ------------------------------------------------------------ | -------------------------------------------------------- |
+|                                                              |                                                          |
 
-### [Blog 博客](https://cwksc.github.io/category/Blog 博客/)
+
+
