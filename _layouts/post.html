@@ -81,9 +81,17 @@
         {% include subscription.html %}
         <!-- {% include share.html %} -->
         {% include author.html %}
-        {% include comments.html %}
+		
+		<!-- new -->
+		<section class="post-content" style="text-align: center; padding: 0px 0px;">
+			<p>For any comments or discussions on my blog post, you can open an issue <a href="https://github.com/CWKSC/BlogComment/issues">here</a></p>
+			<p>對於我博客文章的任何評論或討論，可以在<a href="https://github.com/CWKSC/BlogComment/issues">這裏</a>開一個 issue</p>
+			<p>Feel free to give your comments. OW<</p>
+		</section>
+		
+        <!-- {% include comments.html %} -->
         {% include footer.html %}
-
+		
         {% assign author = site.authors | where: "name", post.author | first %}
 
         {% assign author_urls = '' %}
