@@ -1,0 +1,66 @@
+---
+date: 2020-08-06 15:00:00
+layout: post
+title: "MonoGame 筆記 KeyboardState, MouseState 鍵盤、滑鼠輸入"
+subtitle: 
+description: "MonoGame 筆記，鍵盤和滑鼠輸入，只是筆記，搬運自知乎"
+image: https://cdn.jsdelivr.net/gh/CWKSC/MyResources/Image/post9.jpg
+optimized_image: https://cdn.jsdelivr.net/gh/CWKSC/MyResources/Image/optimized/post9_opt.jpg
+category: MonoGame
+tags:
+  - MonoGame
+  - C#
+author: CWKSC
+paginate: false
+---
+
+只是筆記，搬運自：
+
+[MonoGame 笔记 - KeyboardState 键盘输入 - 知乎](https://zhuanlan.zhihu.com/p/90438490)
+
+[MonoGame 笔记 - MouseState 滑鼠输入 - 知乎](https://zhuanlan.zhihu.com/p/90447849)
+
+## ▌KeyboardState 鍵盤輸入
+
+```C#
+KeyboardState kb = Keyboard.GetState();
+
+if (kb.IsKeyDown(Keys.Left)){
+    // something here
+} else if (kb.IsKeyDown(Keys.Right)){
+    // something here
+} else if (kb.IsKeyDown(Keys.Up)){
+    // something here
+} else if (kb.IsKeyDown(Keys.Down)){
+    // something here
+}
+```
+
+### Reference:
+
+[Basic Keyboard Input - RB Whitaker's Wiki](https://link.zhihu.com/?target=http%3A//rbwhitaker.wikidot.com/basic-keyboard-input)
+
+## ▌MouseState 滑鼠輸入
+
+```c#
+MouseState ms = Mouse.GetState();
+if (ms.LeftButton == ButtonState.Pressed){
+    // something here
+}
+```
+
+### Don't repeat to loop call (mouse down):
+
+```C#
+ButtonState lastButtonState = ButtonState.Released;
+
+MouseState ms = Mouse.GetState();
+if (ms.LeftButton == ButtonState.Pressed && ms.LeftButton != lastButtonState){
+    // something here
+}
+lastButtonState = ms.LeftButton;
+```
+
+### Reference:
+
+[Mouse Input - RB Whitaker's Wiki](https://link.zhihu.com/?target=http%3A//rbwhitaker.wikidot.com/mouse-input)
