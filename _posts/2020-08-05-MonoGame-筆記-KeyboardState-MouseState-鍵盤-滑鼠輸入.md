@@ -22,7 +22,7 @@ paginate: false
 
 ## ▌KeyboardState 鍵盤輸入
 
-```C#
+```csharp
 KeyboardState kb = Keyboard.GetState();
 
 if (kb.IsKeyDown(Keys.Left)){
@@ -42,7 +42,7 @@ if (kb.IsKeyDown(Keys.Left)){
 
 ## ▌MouseState 滑鼠輸入
 
-```c#
+```csharp
 MouseState ms = Mouse.GetState();
 if (ms.LeftButton == ButtonState.Pressed){
     // something here
@@ -51,7 +51,7 @@ if (ms.LeftButton == ButtonState.Pressed){
 
 ### Don't repeat to loop call (mouse down):
 
-```C#
+```csharp
 ButtonState lastButtonState = ButtonState.Released;
 
 MouseState ms = Mouse.GetState();
