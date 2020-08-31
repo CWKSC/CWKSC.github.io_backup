@@ -11,7 +11,9 @@ permalink: /about_me/
 
 # About me 關於我
 
-一個香港的學生，目前狀態是大專畢業(遊戲開發)，如無意外準備大三
+一個香港的學生，大專畢業於遊戲開發
+
+目前是 CityU CS Year
 
 喜歡編程，會一點點鋼琴，會一點點畫畫，喜歡使用顏文字
 
@@ -19,7 +21,7 @@ permalink: /about_me/
 
 ___
 
-編程語言： C#, C, C++, Java, js
+編程語言： C#, C, C++, Java, js, Haskell, Common Lisp
 
 會一點點 Unity, Android Studio，另外 Github 的 [Profile](https://github.com/CWKSC) 和 [倉庫分類](https://github.com/CWKSC/MyGithubRepositories) 在這裏
 
@@ -39,7 +41,7 @@ ___
 
 Instagram: [https://www.instagram.com/cwksc/](https://www.instagram.com/cwksc/)
 
-Twitter: [https://twitter.com/CwkscP](https://twitter.com/CwkscP)  （ CWKSC 這個 id 給別人用了 。･ﾟ･(つ д`ﾟ)･ﾟ･  ）
+Twitter: [https://twitter.com/realCWKSC](https://twitter.com/realCWKSC)  （ CWKSC 這個 id 給別人用了 。･ﾟ･(つ д`ﾟ)･ﾟ･  ）
 
 Github: [https://github.com/CWKSC](https://github.com/CWKSC)
 

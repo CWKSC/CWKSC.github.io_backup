@@ -15,7 +15,7 @@ permalink: /about_this_blog/
 
 封面的圖片主要從這裏獲取： [https://unsplash.com/](https://unsplash.com/)
 
-Blog 用了GitHub Pages + Jekyll，Theme 是 [Jekflix](https://github.com/thiagorossener/jekflix-template) 
+Blog 用了 GitHub Pages + Jekyll，Theme 是 [Jekflix](https://github.com/thiagorossener/jekflix-template) 
 
 這個主題的排版可以一次過展示更多的文章，挺好的
 
