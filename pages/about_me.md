@@ -11,9 +11,9 @@ permalink: /about_me/
 
 # About me 關於我
 
-一個香港的學生，大專畢業於遊戲開發
+一個香港的學生，大專畢業於 IVE HD 遊戲開發
 
-目前是 CityU CS Year
+目前就讀於 HK CityU CS Year 2
 
 喜歡編程，會一點點鋼琴，會一點點畫畫，喜歡使用顏文字
 
