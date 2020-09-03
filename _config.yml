@@ -4,6 +4,7 @@ title: CWKSC's blog | 博客
 description: CWKSC's blog | 博客，這個博客主要是寫技術文章的，有時候是日常生活、吐槽。Blog 用了GitHub Pages + Jekyll，Theme 是 Jekflix
 tags:
   - blog
+  - programming
   - template
   - jekyll
   - theme
