@@ -10,6 +10,7 @@ category:
 tags: 
 author: CWKSC
 paginate: false
+math: true
 ---
 
 Content here
