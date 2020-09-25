@@ -95,17 +95,17 @@ $$
 \displaylines{
 \begin{array} {|c|c|}\hline Rule \space of\space Inference & Name \\ 
 
-\hline \mathbb{
-	p \\ \underline{p \rightarrow q}\\ \therefore q} & Modus\space ponens \\ 
-\hline \mathbb{
-	\lnot q \\ \underline{p \rightarrow q} \\ \therefore \lnot p } & Modus\space tollens \\ 
+\hline 
+	p \\ \underline{p \rightarrow q}\\ \therefore q & Modus\space ponens \\ 
+\hline 
+	\lnot q \\ \underline{p \rightarrow q} \\ \therefore \lnot p  & Modus\space tollens \\ 
 \hline 
 	p \rightarrow q \\ \underline{q \rightarrow r} \\ \therefore p \rightarrow r & Hypothetical\space syllogism \\ 
-\hline \mathbb{p \vee q\\ \lnot p \\ \overline{\therefore q} }& Disjunctive\space syllogism \\ 
-\hline \mathbb{p \\ \overline{\therefore p \vee q} }& Addition \\ 
-\hline \mathbb{\underline{p \wedge q}\\ \therefore p }& Simplification \\ 
-\hline \mathbb{p\\ q\\ \overline{\therefore p \wedge q} }& Conjunction \\
-\hline \mathbb{p \vee q\\ \lnot p \vee r\\ \overline{\therefore q \vee r}}& Resolution \\ \hline
+\hline p \vee q\\ \lnot p \\ \overline{\therefore q} & Disjunctive\space syllogism \\ 
+\hline p \\ \overline{\therefore p \vee q} & Addition \\ 
+\hline \underline{p \wedge q}\\ \therefore p & Simplification \\ 
+\hline p\\ q\\ \overline{\therefore p \wedge q} & Conjunction \\
+\hline p \vee q\\ \lnot p \vee r\\ \overline{\therefore q \vee r}& Resolution \\ \hline
 \end{array}
 }
 $$
