@@ -4,8 +4,8 @@ layout: post
 title: 
 subtitle: 
 description: 
-image: 
-optimized_image: 
+image: https://cdn.jsdelivr.net/gh/CWKSC/MyResources/Image/post11.jpg
+optimized_image: https://cdn.jsdelivr.net/gh/CWKSC/MyResources/Image/optimized/post11_opt.jpg
 category: 
 tags: 
 author: CWKSC
