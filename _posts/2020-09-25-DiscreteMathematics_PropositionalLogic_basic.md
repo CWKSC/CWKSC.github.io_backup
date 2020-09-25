@@ -20,73 +20,43 @@ math: true
 
 # Logical Equivalences
 
-### Identity laws
-
 $$
-\displaylines{p \wedge \top \equiv p \\
-p\vee \bot \equiv p}
-$$
-
-### Domination laws
-
-$$
-\displaylines{p\vee \top \equiv \top \\\
-p\wedge \bot \equiv \bot}
-$$
-
-### Idempotent or tautology laws
-
-$$
-\displaylines{p \vee p \equiv p\\\
-p \wedge p \equiv p}
-$$
-
-### Double negation law
-
-$$
-\lnot (\lnot p) ≡ p
-$$
-
-### Commutative laws
-
-$$
-\displaylines{p \vee q \equiv q \vee p \\\
-p \wedge q \equiv q \wedge p}
-$$
-
-### Associative laws
-
-$$
-\displaylines{(p\vee q)\vee r\equiv p\vee (q\vee r)\\\
-(p\wedge q)\wedge r\equiv p\wedge (q\wedge r)}
-$$
-
-### Distributive laws
-
-$$
-\displaylines{p\vee (q\wedge r)\equiv (p\vee q)\wedge (p\vee r) \\\
-p\wedge (q\vee r)\equiv (p\wedge q)\vee (p\wedge r)}
-$$
-
-### De Morgan's laws
-
-$$
-\displaylines{\neg (p\wedge q)\equiv \neg p\vee \neg q \\\
-\neg (p\vee q)\equiv \neg p\wedge \neg q}
-$$
-
-### Absorption laws
-
-$$
-\displaylines{p\vee (p\wedge q)\equiv p\\\
-p\wedge (p\vee q)\equiv p}
-$$
-
-### Negation laws
-
-$$
-\displaylines{p\vee \neg p\equiv \top\\\
-p\wedge \neg p\equiv \bot}
+\displaylines{
+\begin{array}{|c|c|c|}
+\hline
+  \text{Equivalence} & \text{Name} \\ 
+\hline
+   \mathbb{\displaylines{p \wedge \top \equiv p \\
+p\vee \bot \equiv p}} & Identity \space laws\\
+\hline
+   \mathbb{\displaylines{p\vee \top \equiv \top \\\
+p\wedge \bot \equiv \bot}} & Domination \space laws\\
+\hline
+   \mathbb{\displaylines{p \vee p \equiv p\\\
+p \wedge p \equiv p}} & Idempotent \space or \space tautology \space laws\\ 
+\hline
+   \mathbb{\lnot (\lnot p) ≡ p} & Double \space negation \space law \\
+\hline
+   \mathbb{\displaylines{p \vee q \equiv q \vee p \\\
+p \wedge q \equiv q \wedge p}} & Commutative \space laws \\
+\hline
+   \mathbb{\displaylines{(p\vee q)\vee r\equiv p\vee (q\vee r)\\\
+(p\wedge q)\wedge r\equiv p\wedge (q\wedge r)}} & Associative \space laws \\ 
+\hline
+   \mathbb{\displaylines{p\vee (q\wedge r)\equiv (p\vee q)\wedge (p\vee r) \\\
+p\wedge (q\vee r)\equiv (p\wedge q)\vee (p\wedge r)}} & Distributive \space laws \\ 
+\hline
+    \mathbb{\displaylines{\neg (p\wedge q)\equiv \neg p\vee \neg q \\\
+\neg (p\vee q)\equiv \neg p\wedge \neg q}} & De \space Morgan's \space laws \\
+\hline
+    \mathbb{\displaylines{p\vee (p\wedge q)\equiv p\\\
+p\wedge (p\vee q)\equiv p}} & Absorption \space laws\\
+\hline
+    \mathbb{\displaylines{p\vee \neg p\equiv \top\\\
+p\wedge \neg p\equiv \bot}} & Negation \space laws\\
+    \hline
+\end{array}
+}
 $$
 
 ## Logical Equivalences Involving Conditional Statements
