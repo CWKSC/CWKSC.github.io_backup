@@ -9,8 +9,8 @@ optimized_image: https://cdn.jsdelivr.net/gh/CWKSC/MyResources/Image/optimized/p
 category: Discrete Mathematics
 tags: 
   - Mathematics 數學
-  - Discrete Mathematics 離散數學
-  - Propositional Logic 命題邏輯
+  - Discrete Math 離散數學
+  - PropositionalLogic 命題邏輯
 author: CWKSC
 paginate: false
 math: true
