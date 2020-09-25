@@ -62,62 +62,69 @@ $$
 ## Logical Equivalences Involving Conditional Statements
 
 $$
-\displaylines{p\rightarrow q\equiv \neg p\vee q\\\
-p\rightarrow q\equiv \neg q\rightarrow \neg p\\\
-p\vee q\equiv \neg p\rightarrow q\\\
-p\wedge q\equiv \neg (p\rightarrow \neg q)\\\
-\neg (p\rightarrow q)\equiv p\wedge \neg q\\\
-(p\rightarrow q)\wedge (p\rightarrow r)\equiv p\rightarrow (q\wedge r)\\\
-(p\rightarrow q)\vee (p\rightarrow r)\equiv p\rightarrow (q\vee r)\\\
-(p\rightarrow r)\wedge (q\rightarrow r)\equiv (p\vee q)\rightarrow r\\\
-(p\rightarrow r)\vee (q\rightarrow r)\equiv (p\wedge q)\rightarrow r}
+\displaylines{
+\begin{aligned}
+p\rightarrow q &\equiv \neg p\vee q\\\
+p\rightarrow q &\equiv \neg q\rightarrow \neg p\\\
+p\vee q&\equiv \neg p\rightarrow q\\\
+p\wedge q&\equiv \neg (p\rightarrow \neg q)\\\
+\neg (p\rightarrow q)&\equiv p\wedge \neg q\\\
+(p\rightarrow q)\wedge (p\rightarrow r)&\equiv p\rightarrow (q\wedge r)\\\
+(p\rightarrow q)\vee (p\rightarrow r)&\equiv p\rightarrow (q\vee r)\\\
+(p\rightarrow r)\wedge (q\rightarrow r)&\equiv (p\vee q)\rightarrow r\\\
+(p\rightarrow r)\vee (q\rightarrow r)&\equiv (p\wedge q)\rightarrow r
+\end{aligned}
+}
 $$
 
 ## Logical Equivalences Involving Biconditional Statements
 
 $$
-\displaylines{p\leftrightarrow  q\equiv (p\rightarrow q)\wedge (q\rightarrow p)\\\
-p\leftrightarrow  q\equiv \neg p\leftrightarrow  \neg q\\\
-p\leftrightarrow  q\equiv (p\wedge q)\vee (\neg p\wedge \neg q)\\\
-\neg (p\leftrightarrow  q)\equiv p\leftrightarrow  \neg q}
+\displaylines{
+\begin{aligned}
+p\leftrightarrow  q&\equiv (p\rightarrow q)\wedge (q\rightarrow p)\\\
+p\leftrightarrow  q&\equiv \neg p\leftrightarrow  \neg q\\\
+p\leftrightarrow  q&\equiv (p\wedge q)\vee (\neg p\wedge \neg q)\\\
+\neg (p\leftrightarrow  q)&\equiv p\leftrightarrow  \neg q
+\end{aligned}}
 $$
 
 # Rules of Inference
 
 $$
 \displaylines{
-\begin{array} {|r|r|}\hline Rule \space of\space Inference & Name \\ \hline p\\\ p \rightarrow q\\\ \therefore q & Modus\space ponens \\ \hline \lnot q\\\ p \rightarrow q\\\ \therefore \lnot p & Modus\space tollens \\ \hline p \rightarrow q\\\ q \rightarrow r \\\ \therefore p \rightarrow r & Hypothetical\space syllogism \\ \hline p \vee q\\\ \lnot p\\\ \therefore q & Disjunctive\space syllogism \\ \hline p\\\ \therefore p \vee q & Addition \\ \hline p \wedge q\\\ \therefore p & Simplification \\ \hline p\\\ q\\\ \therefore p \wedge q & Conjunction \\ \hline p \vee q\\\ \lnot p \vee r\\\ \therefore q \vee r & Resolution \\ \hline  \end{array}
+\begin{array} {|c|c|}\hline Rule \space of\space Inference & Name \\ 
+
+\hline \mathbb{
+	p \\ \underline{p \rightarrow q}\\ \therefore q} & Modus\space ponens \\ 
+\hline \mathbb{
+	\lnot q \\ \underline{p \rightarrow q} \\ \therefore \lnot p } & Modus\space tollens \\ 
+\hline 
+	p \rightarrow q \\ \underline{q \rightarrow r} \\ \therefore p \rightarrow r & Hypothetical\space syllogism \\ 
+\hline \mathbb{p \vee q\\ \lnot p \\ \overline{\therefore q} }& Disjunctive\space syllogism \\ 
+\hline \mathbb{p \\ \overline{\therefore p \vee q} }& Addition \\ 
+\hline \mathbb{\underline{p \wedge q}\\ \therefore p }& Simplification \\ 
+\hline \mathbb{p\\ q\\ \overline{\therefore p \wedge q} }& Conjunction \\
+\hline \mathbb{p \vee q\\ \lnot p \vee r\\ \overline{\therefore q \vee r}}& Resolution \\ \hline
+\end{array}
 }
 $$
 
 ## Rules of Inference for Quantified Statements
 
-### Universal instantiation
-
 $$
-\displaylines{\forall x P(x)\\\
-\therefore P(c)}
-$$
-
-### Universal generalization
-
-$$
-\displaylines{P (c) \space for \space an \space arbitrary\space c\\\
-\therefore \forall x P(x)}
-$$
-
-### Existential instantiation
-
-$$
-\displaylines{\exists x P(x)\\\
-\therefore P(x) \space for \space some \space element \space c}
-$$
-
-### Existential generalization
-
-$$
-\displaylines{P(x) \space for \space some \space element \space c\\\
-\therefore \exists x P(x)}
+\displaylines{
+\begin{array}  {|c|c|} \hline Rule \space of \space Inference & Name \\ 
+\hline \forall x P(x) \\ \therefore P(c) & Universal \space instantiation \\
+\hline P (c) \space for \space an \space arbitrary\space c \\
+        \therefore \forall x P(x) & Universal \space generalization \\
+\hline \exists x P(x)\\\
+\therefore P(x) \space for \space some \space element \space c & Existential \space instantiation \\
+\hline P(x) \space for \space some \space element \space c\\\
+\therefore \exists x P(x) & Existential \space generalization\\
+\hline
+\end{array}
+}
 $$
 
 # Reference
