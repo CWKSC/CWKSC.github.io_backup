@@ -21,23 +21,21 @@ math: true
 ### Identity laws
 
 $$
-p \wedge \top \equiv p
-
+p \wedge \top \equiv p \\\
 p\vee \bot \equiv p
 $$
 
 ### Domination laws
 
 $$
-p\vee \top \equiv \top 
-
+p\vee \top \equiv \top \\\
 p\wedge \bot \equiv \bot
 $$
 
 ### Idempotent or tautology laws
 
 $$
-p \vee p \equiv p\\
+p \vee p \equiv p\\\
 p \wedge p \equiv p
 $$
 
@@ -50,28 +48,28 @@ $$
 ### Commutative laws
 
 $$
-p \vee q \equiv q \vee p \\
+p \vee q \equiv q \vee p \\\
 p \wedge q \equiv q \wedge p
 $$
 
 ### Associative laws
 
 $$
-(p\vee q)\vee r\equiv p\vee (q\vee r)\\
+(p\vee q)\vee r\equiv p\vee (q\vee r)\\\
 (p\wedge q)\wedge r\equiv p\wedge (q\wedge r)
 $$
 
 ### Distributive laws
 
 $$
-p\vee (q\wedge r)\equiv (p\vee q)\wedge (p\vee r) \\
+p\vee (q\wedge r)\equiv (p\vee q)\wedge (p\vee r) \\\
 p\wedge (q\vee r)\equiv (p\wedge q)\vee (p\wedge r)
 $$
 
 ### De Morgan's laws
 
 $$
-\neg (p\wedge q)\equiv \neg p\vee \neg q \\
+\neg (p\wedge q)\equiv \neg p\vee \neg q \\\
 \neg (p\vee q)\equiv \neg p\wedge \neg q
 $$
 
@@ -92,23 +90,23 @@ $$
 ## Logical Equivalences Involving Conditional Statements
 
 $$
-p\rightarrow q\equiv \neg p\vee q\\
-p\rightarrow q\equiv \neg q\rightarrow \neg p\\
-p\vee q\equiv \neg p\rightarrow q\\
-p\wedge q\equiv \neg (p\rightarrow \neg q)\\
-\neg (p\rightarrow q)\equiv p\wedge \neg q\\
-(p\rightarrow q)\wedge (p\rightarrow r)\equiv p\rightarrow (q\wedge r)\\
-(p\rightarrow q)\vee (p\rightarrow r)\equiv p\rightarrow (q\vee r)\\
-(p\rightarrow r)\wedge (q\rightarrow r)\equiv (p\vee q)\rightarrow r\\
+p\rightarrow q\equiv \neg p\vee q\\\
+p\rightarrow q\equiv \neg q\rightarrow \neg p\\\
+p\vee q\equiv \neg p\rightarrow q\\\
+p\wedge q\equiv \neg (p\rightarrow \neg q)\\\
+\neg (p\rightarrow q)\equiv p\wedge \neg q\\\
+(p\rightarrow q)\wedge (p\rightarrow r)\equiv p\rightarrow (q\wedge r)\\\
+(p\rightarrow q)\vee (p\rightarrow r)\equiv p\rightarrow (q\vee r)\\\
+(p\rightarrow r)\wedge (q\rightarrow r)\equiv (p\vee q)\rightarrow r\\\
 (p\rightarrow r)\vee (q\rightarrow r)\equiv (p\wedge q)\rightarrow r
 $$
 
 ## Logical Equivalences Involving Biconditional Statements
 
 $$
-p\leftrightarrow  q\equiv (p\rightarrow q)\wedge (q\rightarrow p)\\
-p\leftrightarrow  q\equiv \neg p\leftrightarrow  \neg q\\
-p\leftrightarrow  q\equiv (p\wedge q)\vee (\neg p\wedge \neg q)\\
+p\leftrightarrow  q\equiv (p\rightarrow q)\wedge (q\rightarrow p)\\\
+p\leftrightarrow  q\equiv \neg p\leftrightarrow  \neg q\\\
+p\leftrightarrow  q\equiv (p\wedge q)\vee (\neg p\wedge \neg q)\\\
 \neg (p\leftrightarrow  q)\equiv p\leftrightarrow  \neg q
 $$
 
@@ -117,32 +115,32 @@ $$
 ### Modus ponens
 
 $$
-p\\
-p \rightarrow q\\
+p\\\
+p \rightarrow q\\\
 \therefore q
 $$
 
 ### Modus tollens
 
 $$
-\lnot q\\
-p \rightarrow q\\
+\lnot q\\\
+p \rightarrow q\\\
 \therefore \lnot p
 $$
 
 ### Hypothetical syllogism
 
 $$
-p \rightarrow q\\
-q \rightarrow r \\
+p \rightarrow q\\\
+q \rightarrow r \\\
 \therefore p \rightarrow r
 $$
 
 ### Disjunctive syllogism
 
 $$
-p \vee q\\
-\lnot p\\
+p \vee q\\\
+\lnot p\\\
 \therefore q
 $$
 
@@ -171,8 +169,8 @@ $$
 ### Resolution
 
 $$
-p \vee q\\
-\lnot p \vee r\\
+p \vee q\\\
+\lnot p \vee r\\\
 \therefore q \vee r
 $$
 
@@ -181,28 +179,28 @@ $$
 ### Universal instantiation
 
 $$
-\forall x P(x)\\
+\forall x P(x)\\\
 \therefore P(c)
 $$
 
 ### Universal generalization
 
 $$
-P (c) \space for \space an \space arbitrary\space  c\\
+P (c) \space for \space an \space arbitrary\space c\\\
 \therefore \forall x P(x)
 $$
 
 ### Existential instantiation
 
 $$
-\exists x P(x)\\
+\exists x P(x)\\\
 \therefore P(x) \space for \space some \space element \space c
 $$
 
 ### Existential generalization
 
 $$
-P(x) \space for \space some \space element \space c\\
+P(x) \space for \space some \space element \space c\\\
 \therefore \exists x P(x)
 $$
 
