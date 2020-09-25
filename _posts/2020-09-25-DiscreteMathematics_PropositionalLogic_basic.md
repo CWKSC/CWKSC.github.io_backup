@@ -1,5 +1,5 @@
 ---
-date: 2020-06-15 00:00:00
+date: 2020-09-25 20:00:00
 layout: post
 title: "離散數學 命題邏輯 規則 Discrete Mathematics Propositional Logic Rule"
 subtitle: 
