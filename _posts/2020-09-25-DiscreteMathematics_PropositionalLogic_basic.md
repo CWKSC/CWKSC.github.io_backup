@@ -1,7 +1,7 @@
 ---
 date: 2020-09-25 20:00:00
 layout: post
-title: "Discrete Mathematics 離散數學 Propositional Logic 命題邏輯 Logical Equivalences 邏輯等價, Rules of Inference 推理規則"
+title: "命題邏輯 Logical Equivalences 邏輯等價, Rules of Inference 推理規則"
 subtitle: 
 description: "命題邏輯的一些規則：Logical Equivalences 邏輯等價, Rules of Inference 推理規則"
 image: https://cdn.jsdelivr.net/gh/CWKSC/MyResources/Image/post11.jpg
