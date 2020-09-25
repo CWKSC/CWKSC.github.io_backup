@@ -16,7 +16,7 @@ paginate: false
 math: true
 ---
 
-命題邏輯的一些規則：Logical Equivalences 邏輯等價, Rules of Inference 推理規則
+命題邏輯的 Logical Equivalences 邏輯等價, Rules of Inference 推理規則
 
 ## Logical Equivalences
 
