@@ -35,7 +35,7 @@ p\wedge \bot \equiv \bot}} & Domination \space laws\\
    \mathbb{\displaylines{p \vee p \equiv p\\\
 p \wedge p \equiv p}} & Idempotent \space or \space tautology \space laws\\ 
 \hline
-   \mathbb{\lnot (\lnot p) \equiv p} & Double \space negation \space law \\
+   \mathbb{\displaylines{\lnot (\lnot p) \equiv p}} & Double \space negation \space law \\
 \hline
    \mathbb{\displaylines{p \vee q \equiv q \vee p \\\
 p \wedge q \equiv q \wedge p}} & Commutative \space laws \\
