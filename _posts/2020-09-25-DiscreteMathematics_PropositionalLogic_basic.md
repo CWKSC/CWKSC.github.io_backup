@@ -18,7 +18,7 @@ math: true
 
 命題邏輯的一些規則：Logical Equivalences 邏輯等價, Rules of Inference 推理規則
 
-# Logical Equivalences
+## Logical Equivalences
 
 $$
 \displaylines{
@@ -59,7 +59,7 @@ p\wedge \neg p\equiv \bot}} & Negation \space laws\\
 }
 $$
 
-## Logical Equivalences Involving Conditional Statements
+### Logical Equivalences Involving Conditional Statements
 
 $$
 \displaylines{
@@ -77,7 +77,7 @@ p\wedge q&\equiv \neg (p\rightarrow \neg q)\\\
 }
 $$
 
-## Logical Equivalences Involving Biconditional Statements
+### Logical Equivalences Involving Biconditional Statements
 
 $$
 \displaylines{
@@ -89,7 +89,7 @@ p\leftrightarrow  q&\equiv (p\wedge q)\vee (\neg p\wedge \neg q)\\\
 \end{aligned}}
 $$
 
-# Rules of Inference
+## Rules of Inference
 
 $$
 \displaylines{
@@ -110,7 +110,7 @@ $$
 }
 $$
 
-## Rules of Inference for Quantified Statements
+### Rules of Inference for Quantified Statements
 
 $$
 \displaylines{
@@ -127,7 +127,7 @@ $$
 }
 $$
 
-# Reference
+## Reference
 
 [Logical equivalence - Wikipedia](https://en.wikipedia.org/wiki/Logical_equivalence)
 
