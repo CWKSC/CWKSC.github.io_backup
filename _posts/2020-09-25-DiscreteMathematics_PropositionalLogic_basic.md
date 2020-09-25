@@ -206,6 +206,6 @@ $$
 
 # Reference
 
-https://en.wikipedia.org/wiki/Logical_equivalence
+[Logical equivalence - Wikipedia](https://en.wikipedia.org/wiki/Logical_equivalence)
 
-https://en.wikipedia.org/wiki/Rule_of_inference
+[Rule of inference - Wikipedia](https://en.wikipedia.org/wiki/Rule_of_inference)
