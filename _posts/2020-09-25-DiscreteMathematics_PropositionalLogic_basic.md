@@ -21,14 +21,16 @@ math: true
 ### Identity laws
 
 $$
-p \wedge \top \equiv p \\
-p\vee \bot \equiv p \\
+p \wedge \top \equiv p
+
+p\vee \bot \equiv p
 $$
 
 ### Domination laws
 
 $$
-p\vee \top \equiv \top \\
+p\vee \top \equiv \top 
+
 p\wedge \bot \equiv \bot
 $$
 
