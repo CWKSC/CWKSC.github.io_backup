@@ -76,14 +76,14 @@ $$
 ### Absorption laws
 
 $$
-p\vee (p\wedge q)\equiv p\\
+p\vee (p\wedge q)\equiv p\\\
 p\wedge (p\vee q)\equiv p
 $$
 
 ### Negation laws
 
 $$
-p\vee \neg p\equiv \top\\
+p\vee \neg p\equiv \top\\\
 p\wedge \neg p\equiv \bot
 $$
 
@@ -147,22 +147,22 @@ $$
 ### Addition
 
 $$
-p\\
+p\\\
 \therefore p \vee q
 $$
 
 ### Simplification
 
 $$
-p \wedge q\\
+p \wedge q\\\
 \therefore p
 $$
 
 ### Conjunction
 
 $$
-p\\
-q\\
+p\\\
+q\\\
 \therefore p \wedge q
 $$
 
