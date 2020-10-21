@@ -94,18 +94,22 @@ $$
 $$
 \displaylines{
 \begin{array} {|c|c|}\hline Rule \space of\space Inference & Name \\ 
-
 \hline 
-	p \\ \underline{p \rightarrow q}\\ \therefore q & Modus\space ponens \\ 
+\displaylines{p \\ \underline{p \rightarrow q} \\ \therefore q} & Modus\space ponens \\ 
 \hline 
-	\lnot q \\ \underline{p \rightarrow q} \\ \therefore \lnot p  & Modus\space tollens \\ 
+\displaylines{\lnot q \\ \underline{p \rightarrow q} \\ \therefore \lnot p}& Modus\space tollens \\ 
 \hline 
-	p \rightarrow q \\ \underline{q \rightarrow r} \\ \therefore p \rightarrow r & Hypothetical\space syllogism \\ 
-\hline p \vee q\\ \lnot p \\ \overline{\therefore q} & Disjunctive\space syllogism \\ 
-\hline p \\ \overline{\therefore p \vee q} & Addition \\ 
-\hline \underline{p \wedge q}\\ \therefore p & Simplification \\ 
-\hline p\\ q\\ \overline{\therefore p \wedge q} & Conjunction \\
-\hline p \vee q\\ \lnot p \vee r\\ \overline{\therefore q \vee r}& Resolution \\ \hline
+\displaylines{p \rightarrow q \\ \underline{q \rightarrow r} \\ \therefore p \rightarrow r }& Hypothetical\space syllogism \\ 
+\hline
+\displaylines{p \vee q\\ \lnot p \\ \overline{\therefore q}} & Disjunctive\space syllogism \\ 
+\hline 
+\displaylines{p \\ \overline{\therefore p \vee q}} & Addition \\ 
+\hline
+\displaylines{\underline{p \wedge q}\\ \therefore p }& Simplification \\ 
+\hline 
+\displaylines{p\\ q\\ \overline{\therefore p \wedge q} }& Conjunction \\
+\hline 
+\displaylines{p \vee q\\ \lnot p \vee r\\ \overline{\therefore q \vee r}} & Resolution \\ \hline
 \end{array}
 }
 $$
@@ -114,14 +118,17 @@ $$
 
 $$
 \displaylines{
-\begin{array}  {|c|c|} \hline Rule \space of \space Inference & Name \\ 
-\hline \forall x P(x) \\ \therefore P(c) & Universal \space instantiation \\
-\hline P (c) \space for \space an \space arbitrary\space c \\
-        \therefore \forall x P(x) & Universal \space generalization \\
-\hline \exists x P(x)\\\
-\therefore P(x) \space for \space some \space element \space c & Existential \space instantiation \\
-\hline P(x) \space for \space some \space element \space c\\\
-\therefore \exists x P(x) & Existential \space generalization\\
+\begin{array} {|c|c|}
+\hline 
+Rule \space of \space Inference & Name \\ 
+\hline 
+\displaylines{\forall x P(x) \\ \therefore P(c)}& Universal \space instantiation \\
+\hline 
+\displaylines{P (c) \space for \space an \space arbitrary\space c \\ \therefore \forall x P(x) }& Universal \space generalization \\
+\hline
+\displaylines{\exists x P(x) \\\ \therefore P(x) \space for \space some \space element \space c }& Existential \space instantiation \\
+\hline 
+\displaylines{P(x) \space for \space some \space element \space c\\\ \therefore \exists x P(x)} & Existential \space generalization\\
 \hline
 \end{array}
 }
