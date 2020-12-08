@@ -43,7 +43,10 @@ Neither a tautology nor contradiction, **contingency(可能式)**
 
 
 $$
-¬(p ∧ q) ≡ ¬p ∨ ¬q\\
+¬(p ∧ q) ≡ ¬p ∨ ¬q
+$$
+
+$$
 ¬(p ∨ q) ≡ ¬p ∧ ¬q
 $$
 
@@ -55,7 +58,10 @@ Counterexample 反例
 
 
 $$
-¬∀xP (x) ≡ ∃x ¬P (x)\\
+¬∀xP (x) ≡ ∃x ¬P (x)
+$$
+
+$$
 ¬∃xQ(x) ≡ ∀x ¬Q(x)
 $$
 
@@ -114,11 +120,17 @@ Two sets are called disjoint if their intersection is the empty set
 
 **[One-to-one, Injunction]**
 
-$$f (a) = f (b)$$ implies that a = b for all a and b in the domain of f.
+$f (a) = f (b)$ implies that a = b for all a and b in the domain of f.
 
 $$
-∀a∀b( f(a) = f(b) → a = b), ∀a∀b( a  b → f(a) = f(b) )
+∀a∀b( f(a) = f(b) → a = b)
 $$
+$$
+∀a∀b( a  b → f(a) = f(b) )
+$$
+
+
+
 **[Onto, Surjection]**
 
 For every element b ∈ B there an element a ∈ A with f (a) = b
@@ -143,12 +155,20 @@ Id_A(a) = a
 $$
 **[Inverse functions]** 
 $$
-f:A → B\\ f^{-1}:B → A
+f:A → B
 $$
 
 $$
-\text{f is injective, g ◦ f = }Id_A\text{,  f is surjective, f ◦ g =} Id_B\\
-\text{f is bijective, g ◦ f = }Id_A \text{ and  f ◦ g = } Id_B 
+f^{-1}:B → A
+$$
+
+
+$$
+\text{f is injective, g ◦ f = }Id_A\text{,  f is surjective, f ◦ g =} Id_B
+$$
+
+$$
+\text{f is bijective, g ◦ f = }Id_A \text{ and  f ◦ g = } Id_B
 $$
 
 Let f be a function from the set A to the set B. The **graph** of the function f is the set of ordered pairs $\{(a, b) \mid a ∈ A and f (a) = b\}$
@@ -171,22 +191,25 @@ A **relation** on a set A is a relation from A to A
 
 (b, a) ∈ R whenever(a, b) ∈ R, for all a, b ∈ A
 
+$$
 ∀a∀b((a, b) ∈ R → (b, a) ∈ R)
-
+$$
 **[Antisymmetric]**
 
 For all a, b ∈ A, if (a, b) ∈ R with a ≠ b, then (b, a) not ∈ R
 
 if (a, b) ∈ R and (b, a) ∈ R, then a = b 
 
+$$
 ∀a∀b(((a, b) ∈ R ∧ (b, a) ∈ R) → (a = b))
-
+$$
 **[Transitive]**
 
 (a, b) ∈ R and (b, c) ∈ R, then (a, c) ∈ R, for all a, b, c ∈ A.
 
+$$
 ∀a∀b∀c(((a, b) ∈ R ∧ (b, c) ∈ R) → (a, c) ∈ R)
-
+$$
 **[Composite]**
 
 Let R is A to B and S is B to C. The composite of R and S is the relation consisting of ordered pairs (a, c), where a ∈ A, c ∈ C, and for which there exists an element b ∈ B such that (a, b) ∈ R and (b, c) ∈ S. We denote the composite of R and S by S ◦ R
