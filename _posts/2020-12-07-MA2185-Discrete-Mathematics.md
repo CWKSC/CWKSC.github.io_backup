@@ -75,9 +75,11 @@ $$
 &\Q = \{p/q \| p ∈ Z, q ∈ Z, and q = 0\}, \text{the set of rational numbers 有理數}\\
 &\R,\text{ the set of real numbers 實數}\\
 &\C, \text{ the set of complex numbers 虛數}
-\end{align}\\
+\end{align}
 $$
-Closed interval $$[a, b]$$, open interval $$(a, b)$$
+
+
+Closed interval $[a, b]$, open interval $(a, b)$
 
 A and B are **equal** if and only if $$∀x(x ∈ A ↔ x ∈ B)$$
 
@@ -97,7 +99,7 @@ $$
 
 **Cartesian product (笛卡爾積),** $$A × B = {(a, b) \| a ∈ A ∧ b ∈ B}$$
 
-**Truth set,** $$\{x \| P (x)\}$$ 
+**Truth set,** $\{x \mid P (x)\}$ 
 
 ### **2.2 Set Operations**
 
@@ -127,9 +129,9 @@ $$∀y∃x(f (x) = y)$$, where x is the domain and y is the codomain
 
 Both one-to-one and onto
 
-**[Increasing]** $$f (x) ≤ f (y)$$, **[Strictly increasing]** $$f (x) < f (y)$$
+**[Increasing]** $f (x) ≤ f (y)$, **[Strictly increasing]** $f (x) < f (y)$
 
-**[Decreasing]** $$f (x) ≥ f (y)$$, **[Strictly decreasing]** $$f (x) > f (y)$$
+**[Decreasing]** $f (x) ≥ f (y)$, **[Strictly decreasing]** $f (x) > f (y)$
 
 **[Composition of functions]** **(f ◦ g)(a) = f(g(a))**
 
@@ -149,7 +151,7 @@ $$
 \text{f is bijective, g ◦ f = }Id_A \text{ and  f ◦ g = } Id_B 
 $$
 
-Let f be a function from the set A to the set B. The **graph** of the function f is the set of ordered pairs $$\{(a, b) \| a ∈ A and f (a) = b\}$$
+Let f be a function from the set A to the set B. The **graph** of the function f is the set of ordered pairs $\{(a, b) \mid a ∈ A and f (a) = b\}$
 
 A **partial function** f from set A to set B is an assignment to each element a in a subset of A, called the domain of definition of f , of a unique element b in B. The sets A and B are called the **domain** and **codomain** of f , respectively. We say that f is undefined for elements in A that are not in the domain of definition of f . When the domain of definition of f equals A, we say that f is a **total function**
 
