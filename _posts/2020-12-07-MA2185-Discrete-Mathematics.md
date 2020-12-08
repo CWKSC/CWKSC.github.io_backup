@@ -71,17 +71,13 @@ a is element of set A, a ∈ A
 $$
 \begin{align}
 &\N = \{0, 1, 2, 3,...\},\text{ the set of natural numbers 自然數}\\
-
 &\Z = \{..., −2, −1, 0, 1, 2,...\}, \text{the set of integers 整數}\\
-
 &\Q = \{p/q \| p ∈ Z, q ∈ Z, and q = 0\}, \text{the set of rational numbers 有理數}\\
-
 &\R,\text{ the set of real numbers 實數}\\
-
 &\C, \text{ the set of complex numbers 虛數}
-\end{align}
+\end{align}\\
 $$
-Closed interval [a, b], open interval (a, b)
+Closed interval $$[a, b]$$, open interval $$(a, b)$$
 
 A and B are **equal** if and only if $$∀x(x ∈ A ↔ x ∈ B)$$
 
