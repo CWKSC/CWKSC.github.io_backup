@@ -123,7 +123,7 @@ $$
 
 For every element b ∈ B there an element a ∈ A with f (a) = b
 
-$$∀y∃x(f (x) = y)$$, where x is the domain and y is the codomain
+$∀y∃x(f (x) = y)$, where x is the domain and y is the codomain
 
 **[One-to-one correspondence, Bijection]** 
 
@@ -423,17 +423,23 @@ a_n=a_1r_1^n+a_nr_2^n+...+a_kr_k^n
 $$
 General solution of linear homogeneous recurrence relations with constant coefficients:
 $$
-r^k-c_1r^{k-1}-...-c_k=0 \text{, we have t distinct roots} \\\\
-\text{the root multiply by } m_1, m_2, ..., m_t \text{ times}\\\\
-m_1+m_2+...+m_t=k\\\\
+r^k-c_1r^{k-1}-...-c_k=0 \text{, we have t distinct roots} \\
+\text{the root multiply by } m_1, m_2, ..., m_t \text{ times}\\
+m_1+m_2+...+m_t=k
+$$
+$$
 \begin{align}
 a_n=&(a_{1,0}+a_{1,1}n+...+a_{1,m_1-1}n^{m_1-1})r_1^n+\\
 &(a_{2,0}+a_{2,1}n+...+a_{2,m_2-1}n^{m_2-1})r_2^n+\\
    &     + ... + (a_{t,0}+a_{t,1}n+...+a_{t,m_t-1}n^{m_t-1})r_t^n
-        \end{align}\\
+        \end{align}
+$$
+
+$$
 \text{where }a_{i,j} \text{ are }1 \leq  i\leq t \text{ and }0\leq j\leq m_j-1\\
 a_n= \sum_{i=0}^t(\sum_{j=0}^{m_t-1}a_{i,j}n^j)r_t^n
 $$
+
 Nonhomogeneous linear recurrence relation with constant coefficients
 $$
 a_n = c_1a_{n-1} + c_2a_{n-2} + . . . + c_k a_{n-k} + F(n)
