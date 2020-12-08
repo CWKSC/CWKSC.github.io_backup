@@ -87,7 +87,7 @@ A ⊆ B and B ⊆ A, then A = B
 
 For every set S, ∅ ⊆ S and S ⊆ S
 
-S is **finite set**, n distinct elements, n is **cardinality (基數)** of |S|
+S is **finite set**, n distinct elements, n is **cardinality (基數)** of \|S\|
 
 Power set of S is the set of all subsets of the set S. denoted P(S)
 $$
@@ -97,7 +97,7 @@ $$
 
 **Cartesian product (笛卡爾積),** $$A × B = {(a, b) \| a ∈ A ∧ b ∈ B}$$
 
-**Truth set,** $${x \| P (x)}$$ 
+**Truth set,** $$\{x \| P (x)\}$$ 
 
 ### **2.2 Set Operations**
 
