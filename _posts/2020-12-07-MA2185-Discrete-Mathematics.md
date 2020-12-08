@@ -99,7 +99,7 @@ P(\{0, 1, 2\}) = \text{ \{∅,\{0\},\{1\},\{2\},\{0, 1\},\{0, 2\},\{1, 2\},\{0, 
 $$
 
 
-**Cartesian product (笛卡爾積),** $$A × B = {(a, b) | a ∈ A ∧ b ∈ B}$$
+**Cartesian product (笛卡爾積),** $$A × B = {(a, b) \| a ∈ A ∧ b ∈ B}$$
 
 **Truth set,** $${x \| P (x)}$$ 
 
@@ -107,9 +107,10 @@ $$
 
 **Union A ∪ B, Intersection A ∩ B, Difference A − B, Complement** **A**
 
-$$|A ∪ B| = |A| + |B| - |A ∩ B|$$
-
-Two sets are called disjoint if their intersection is the empty set. 
+$$
+|A ∪ B| = |A| + |B| - |A ∩ B|
+$$
+Two sets are called disjoint if their intersection is the empty set
 
 ### **2.3 Functions**
 
@@ -117,8 +118,9 @@ Two sets are called disjoint if their intersection is the empty set.
 
 $$f (a) = f (b)$$ implies that a = b for all a and b in the domain of f.
 
-$$∀a∀b( f(a) = f(b) → a = b), ∀a∀b( a  b → f(a) = f(b) ) $$
-
+$$
+∀a∀b( f(a) = f(b) → a = b), ∀a∀b( a  b → f(a) = f(b) )
+$$
 **[Onto, Surjection]**
 
 For every element b ∈ B there an element a ∈ A with f (a) = b
