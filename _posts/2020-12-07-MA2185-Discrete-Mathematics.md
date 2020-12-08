@@ -4,7 +4,7 @@ layout: post
 title: "MA2185 Discrete Mathematics"
 subtitle: 
 description: "MA2185 Discrete Mathematics 離散數學"
-image: https://cdn.jsdelivr.net/gh/CWKSC/MyResources/Image/post12.jpg
+image: https://raw.githubusercontent.com/CWKSC/MyResources/master/Image/post12.jpg
 optimized_image: https://cdn.jsdelivr.net/gh/CWKSC/MyResources/Image/optimized/post12_opt.jpg
 category: Discrete Mathematics
 tags: 
