@@ -22,8 +22,10 @@ Note of MA2185 Discrete Mathematics
 **Negation ¬p, Conjunction p ∧ q, Disjunction p ∨ q, Exclusive or p ⊕ q**
 
 **Conditional statement p → q** 
-	p is called the **hypothesis** (or antecedent or premise) 假設/前提
-	q is called the **conclusion** (or consequence) 結論/結果
+
+p is called the **hypothesis** (or antecedent or premise) 假設/前提
+
+q is called the **conclusion** (or consequence) 結論/結果
 
 **Biconditional statement p ↔ q**
 
@@ -38,6 +40,8 @@ Neither a tautology nor contradiction, **contingency(可能式)**
 **Logically equivalent,** **p ≡ q**, if p ↔ q is a tautology
 
 **De Morgan’s Laws**
+
+
 $$
 ¬(p ∧ q) ≡ ¬p ∨ ¬q\\
 ¬(p ∨ q) ≡ ¬p ∧ ¬q
@@ -48,6 +52,8 @@ $$
 **Universal quantifier** ∀, **Existential quantification** ∃
 
 Counterexample 反例
+
+
 $$
 ¬∀xP (x) ≡ ∃x ¬P (x)\\
 ¬∃xQ(x) ≡ ∀x ¬Q(x)
@@ -60,17 +66,19 @@ $$
 ### **2.1 Sets**
 
 a is element of set A, a ∈ A
+
+
 $$
 \begin{align}
-&\N = {0, 1, 2, 3,...},\text{ the set of natural numbers 自然數}\\
+&\N = \{0, 1, 2, 3,...\},\text{ the set of natural numbers 自然數}\\
 
-&\Z = {..., −2, −1, 0, 1, 2,...}, \text{the set of integers 整數}\\
+&\Z = \{..., −2, −1, 0, 1, 2,...\}, \text{the set of integers 整數}\\
 
-&\Q = {p/q | p ∈ Z, q ∈ Z, and q = 0}, \text{the set of rational numbers 有理數}\\
+&\Q = \{p/q | p ∈ Z, q ∈ Z, and q = 0\}, \text{the set of rational numbers 有理數}\\
 
 &\R,\text{ the set of real numbers 實數}\\
 
-&\C, \text{the set of complex numbers 虛數}
+&\C, \text{ the set of complex numbers 虛數}
 \end{align}
 $$
 Closed interval [a, b], open interval (a, b)
@@ -89,9 +97,11 @@ Power set of S is the set of all subsets of the set S. denoted P(S)
 $$
 P(\{0, 1, 2\}) = \text{ \{∅,\{0\},\{1\},\{2\},\{0, 1\},\{0, 2\},\{1, 2\},\{0, 1, 2\} \}}
 $$
+
+
 **Cartesian product (笛卡爾積),** $$A × B = {(a, b) | a ∈ A ∧ b ∈ B}$$
 
-**Truth set,** $${x | P (x)}$$ 
+**Truth set,** $${x \| P (x)}$$ 
 
 ### **2.2 Set Operations**
 
