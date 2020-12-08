@@ -87,7 +87,7 @@ S is **finite set**, n distinct elements, n is **cardinality (基數)** of |S|
 
 Power set of S is the set of all subsets of the set S. denoted P(S)
 $$
-P(\{0, 1, 2\}) = \text{{∅,{0},{1},{2},{0, 1},{0, 2},{1, 2},{0, 1, 2}}}
+P(\{0, 1, 2\}) = \text{ \{∅,\{0\},\{1\},\{2\},\{0, 1\},\{0, 2\},\{1, 2\},\{0, 1, 2\} \}}
 $$
 **Cartesian product (笛卡爾積),** $$A × B = {(a, b) | a ∈ A ∧ b ∈ B}$$
 
