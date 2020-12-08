@@ -74,7 +74,7 @@ $$
 
 &\Z = \{..., −2, −1, 0, 1, 2,...\}, \text{the set of integers 整數}\\
 
-&\Q = \{p/q | p ∈ Z, q ∈ Z, and q = 0\}, \text{the set of rational numbers 有理數}\\
+&\Q = \{p/q \| p ∈ Z, q ∈ Z, and q = 0\}, \text{the set of rational numbers 有理數}\\
 
 &\R,\text{ the set of real numbers 實數}\\
 
