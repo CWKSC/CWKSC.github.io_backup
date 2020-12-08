@@ -15,7 +15,7 @@ paginate: false
 math: true
 ---
 
-Note of CityU MA2185 Discrete Mathematics
+Note of MA2185 Discrete Mathematics
 
 ### 1.1 Propositional Logic
 
@@ -53,7 +53,7 @@ $$
 ¬∃xQ(x) ≡ ∀x ¬Q(x)
 $$
 
-## **1.6 Rules of Inference**
+### **1.6 Rules of Inference**
 
 [命題邏輯 Logical Equivalences 邏輯等價, Rules of Inference 推理規則](https://cwksc.github.io/DiscreteMathematics_PropositionalLogic_basic/)
 
@@ -75,9 +75,9 @@ $$
 $$
 Closed interval [a, b], open interval (a, b)
 
-A and B are **equal** if and only if ∀x(x ∈ A ↔ x ∈ B)
+A and B are **equal** if and only if $$∀x(x ∈ A ↔ x ∈ B)$$
 
-Set A is **subset** of set B, A ⊆ B, ∀x(x ∈ A → x ∈ B)
+Set A is **subset** of set B, $$A ⊆ B, ∀x(x ∈ A → x ∈ B)$$
 
 A ⊆ B and B ⊆ A, then A = B
 
@@ -89,15 +89,15 @@ Power set of S is the set of all subsets of the set S. denoted P(S)
 $$
 P(\{0, 1, 2\}) = \text{{∅,{0},{1},{2},{0, 1},{0, 2},{1, 2},{0, 1, 2}}}
 $$
-**Cartesian product (笛卡爾積),** A × B = {(a, b) | a ∈ A ∧ b ∈ B}
+**Cartesian product (笛卡爾積),** $$A × B = {(a, b) | a ∈ A ∧ b ∈ B}$$
 
-**Truth set,** **{x ∈ D | P (x)}**
+**Truth set,** $${x | P (x)}$$ 
 
 ### **2.2 Set Operations**
 
 **Union A ∪ B, Intersection A ∩ B, Difference A − B, Complement** **A**
 
-|A ∪ B| = |A| + |B| - |A ∩ B| 
+$$|A ∪ B| = |A| + |B| - |A ∩ B|$$
 
 Two sets are called disjoint if their intersection is the empty set. 
 
@@ -105,23 +105,23 @@ Two sets are called disjoint if their intersection is the empty set.
 
 **[One-to-one, Injunction]**
 
-f (a) = f (b) implies that a = b for all a and b in the domain of f.
+$$f (a) = f (b)$$ implies that a = b for all a and b in the domain of f.
 
-∀a∀b( f(a) = f(b) → a = b), ∀a∀b( a  b → f(a) = f(b) ) 
+$$∀a∀b( f(a) = f(b) → a = b), ∀a∀b( a  b → f(a) = f(b) ) $$
 
 **[Onto, Surjection]**
 
 For every element b ∈ B there an element a ∈ A with f (a) = b
 
-∀y∃x(f (x) = y), where x is the domain and y is the codomain
+$$∀y∃x(f (x) = y)$$, where x is the domain and y is the codomain
 
 **[One-to-one correspondence, Bijection]** 
 
 Both one-to-one and onto
 
-**[Increasing]** f (x) ≤ f (y), **[Strictly increasing]** f (x) < f (y)
+**[Increasing]** $$f (x) ≤ f (y)$$, **[Strictly increasing]** $$f (x) < f (y)$$
 
-**[Decreasing]** f (x) ≥ f (y), **[Strictly decreasing]** f (x) > f (y)
+**[Decreasing]** $$f (x) ≥ f (y)$$, **[Strictly decreasing]** $$f (x) > f (y)$$
 
 **[Composition of functions]** **(f ◦ g)(a) = f(g(a))**
 
