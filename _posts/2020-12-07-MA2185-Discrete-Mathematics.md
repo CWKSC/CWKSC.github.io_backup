@@ -3,7 +3,7 @@ date: 2020-12-08 00:00:00
 layout: post
 title: "MA2185 Discrete Mathematics"
 subtitle: 
-description: 
+description: "MA2185 Discrete Mathematics 離散數學"
 image: https://cdn.jsdelivr.net/gh/CWKSC/MyResources/Image/post12.jpg
 optimized_image: https://cdn.jsdelivr.net/gh/CWKSC/MyResources/Image/optimized/post12_opt.jpg
 category: Discrete Mathematics
@@ -423,9 +423,9 @@ a_n=a_1r_1^n+a_nr_2^n+...+a_kr_k^n
 $$
 General solution of linear homogeneous recurrence relations with constant coefficients:
 $$
-r^k-c_1r^{k-1}-...-c_k=0 \text{, we have t distinct roots} \\
-\text{the root multiply by } m_1, m_2, ..., m_t \text{ times}\\
-m_1+m_2+...+m_t=k\\
+r^k-c_1r^{k-1}-...-c_k=0 \text{, we have t distinct roots} \\\\
+\text{the root multiply by } m_1, m_2, ..., m_t \text{ times}\\\\
+m_1+m_2+...+m_t=k\\\\
 \begin{align}
 a_n=&(a_{1,0}+a_{1,1}n+...+a_{1,m_1-1}n^{m_1-1})r_1^n+\\
 &(a_{2,0}+a_{2,1}n+...+a_{2,m_2-1}n^{m_2-1})r_2^n+\\
