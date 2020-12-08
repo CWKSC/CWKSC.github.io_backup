@@ -149,7 +149,7 @@ $$
 \text{f is bijective, g ◦ f = }Id_A \text{ and  f ◦ g = } Id_B 
 $$
 
-Let f be a function from the set A to the set B. The **graph** of the function f is the set of ordered pairs {(a, b) | a ∈ A and f (a) = b}.
+Let f be a function from the set A to the set B. The **graph** of the function f is the set of ordered pairs $$\{(a, b) \| a ∈ A and f (a) = b\}$$
 
 A **partial function** f from set A to set B is an assignment to each element a in a subset of A, called the domain of definition of f , of a unique element b in B. The sets A and B are called the **domain** and **codomain** of f , respectively. We say that f is undefined for elements in A that are not in the domain of definition of f . When the domain of definition of f equals A, we say that f is a **total function**
 
