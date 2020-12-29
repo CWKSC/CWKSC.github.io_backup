@@ -17,6 +17,10 @@ math: true
 
 Note of MA2185 Discrete Mathematics
 
+<object data="MA2185-Discrete-Mathematics.pdf" type="application/x-pdf">
+    <a href="MA2185-Discrete-Mathematics.pdf">shree</a> 
+</object>
+
 ### 1.1 Propositional Logic
 
 **Negation ¬p, Conjunction p ∧ q, Disjunction p ∨ q, Exclusive or p ⊕ q**
