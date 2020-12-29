@@ -17,6 +17,8 @@ math: true
 
 Note of MA2185 Discrete Mathematics
 
+[Link](../assets/pdf/MA2185-Discrete-Mathematics.pdf)
+
 <object data="../assets/pdf/MA2185-Discrete-Mathematics.pdf" type="application/pdf" height="-webkit-fill-available">
   <p>Your web browser doesn't have a PDF plugin.
   Instead you can <a href="../assets/pdf/MA2185-Discrete-Mathematics.pdf">click here to
