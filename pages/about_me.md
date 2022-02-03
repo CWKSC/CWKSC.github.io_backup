@@ -13,7 +13,7 @@ permalink: /about_me/
 
 一個香港的學生，大專畢業於 IVE HD 遊戲開發
 
-目前就讀於 HK CityU CS Year 2
+目前就讀於 HK CityU CS Year 3
 
 喜歡編程，會一點點鋼琴，會一點點畫畫，喜歡使用顏文字
 
@@ -21,13 +21,11 @@ permalink: /about_me/
 
 ___
 
-編程語言： C#, C, C++, Java, js, Haskell, Common Lisp
+編程語言： C#, C, C++, Java, Javascript, Python, Kotlin
 
-會一點點 Unity, Android Studio，另外 Github 的 [Profile](https://github.com/CWKSC) 和 [倉庫分類](https://github.com/CWKSC/MyGithubRepositories) 在這裏
+不會 Julia, Ruby, Haskell, Common Lisp
 
-用過：Node.js, jQuery, WebSocket, Express.js, Socket.IO, MonogoDB, Mongoose, validator.js, ZeroMQ
-
-使用過的工具：Unity, Android Studio, 3dsMax, Blender, Access, Adobe Premiere Pro, NativeScript, Typora, Visual Studio, Intellij IDEA, Eclipse, Scratch, Google SketchUp 
+會一點點 Unity, Android Development，另外 Github 的 [Profile](https://github.com/CWKSC) 和 [倉庫分類](https://github.com/CWKSC/MyGithubRepositories) 在這裏
 
 （ ~~隨便什麼亂七八糟的東西都填上去~~ ）
 
@@ -46,6 +44,8 @@ Twitter: [https://twitter.com/realCWKSC](https://twitter.com/realCWKSC)  （ CWK
 Github: [https://github.com/CWKSC](https://github.com/CWKSC)
 
 知乎： [https://www.zhihu.com/people/CWKSC](https://www.zhihu.com/people/CWKSC) <br>（除了點讚，不會再更新專欄 / 其他東西，祝知乎早日完蛋）
+
+OSU：[https://osu.ppy.sh/users/23833533](https://osu.ppy.sh/users/23833533) <br />
 
 iT 邦幫忙： [https://ithelp.ithome.com.tw/users/20111788](https://ithelp.ithome.com.tw/users/20111788)
 
