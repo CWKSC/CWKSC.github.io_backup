@@ -13,7 +13,7 @@ permalink: /about_me/
 
 一個香港的學生，大專畢業於 IVE HD 遊戲開發
 
-目前就讀於 HK CityU CS Year 3
+目前就讀於 HK CityU CS Year 4
 
 喜歡編程，會一點點鋼琴，會一點點畫畫，喜歡使用顏文字
 
@@ -21,9 +21,9 @@ permalink: /about_me/
 
 ___
 
-編程語言： C#, C, C++, Java, Javascript, Python, Kotlin
+編程語言： C#, C, C++, Java, Javascript, Typescript, Python, Kotlin
 
-不會 Julia, Ruby, Haskell, Common Lisp
+不會 Rust, Julia, Ruby, Haskell, Common Lisp
 
 會一點點 Unity, Android Development，另外 Github 的 [Profile](https://github.com/CWKSC) 和 [倉庫分類](https://github.com/CWKSC/MyGithubRepositories) 在這裏
 
@@ -62,4 +62,3 @@ ___
 ___
 
 一些其他的東西看看我 Blog 的文章吧 OW<
-
