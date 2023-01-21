@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Code
-slug: code
-description: A category for code related posts.
+title: Programming
+slug: programming
+description: A category for programming related posts.
 ---
