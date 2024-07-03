@@ -51,8 +51,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cwksc.github.io/CWKSC.github.io_backup/" # the base hostname & protocol for your site
+baseurl: "/CWKSC.github.io_backup" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 google_analytics: ""
 language: "zh"
 categories_folder: category
