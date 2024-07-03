@@ -1,6 +1,6 @@
 # Site Settings
-name: CWKSC's blog | 博客
-title: CWKSC's blog | 博客
+name: CWKSC's blog | 博客 (已棄用)
+title: CWKSC's blog | 博客 (已棄用)
 description: CWKSC's blog | 博客，這個博客主要是寫技術文章的，有時候是日常生活、吐槽。Blog 用了GitHub Pages + Jekyll，Theme 是 Jekflix
 tags:
   - blog
@@ -52,7 +52,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "/CWKSC.github.io_backup" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://cwksc.github.io/CWKSC.github.io_backup/" # the base hostname & protocol for your site
 google_analytics: ""
 language: "zh"
 categories_folder: category
