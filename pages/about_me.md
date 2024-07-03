@@ -13,7 +13,7 @@ permalink: /about_me/
 
 一個香港的學生，大專畢業於 IVE HD 遊戲開發
 
-目前就讀於 HK CityU CS Year 4
+畢業於 City University of Hong Kong - Computer Science
 
 喜歡編程，會一點點鋼琴，會一點點畫畫，喜歡使用顏文字
 

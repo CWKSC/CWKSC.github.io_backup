@@ -51,9 +51,9 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/CWKSC.github.io_backup" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-173965022-1"
+google_analytics: ""
 language: "zh"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
